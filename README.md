@@ -7,10 +7,9 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Qualys Vulnerability Management](https://acrobat.adobe.com/id/urn:aaid:sc:EU:159fc180-162a-4f92-a328-9e71a92ab36d)
-
-
+- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
