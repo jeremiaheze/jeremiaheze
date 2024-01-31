@@ -8,7 +8,7 @@
 <h2>📄 Certifications</h2>
 
 - [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Qualys Vulnerability Management](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Qualys Vulnerability Management](https://acrobat.adobe.com/id/urn:aaid:sc:EU:a108ddb3-9a65-4563-b6a6-7bd667a72b64)
 
 
 <h2>📺 Popular YouTube Videos</h2>
