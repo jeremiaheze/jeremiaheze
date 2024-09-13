@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/jeremiaheze/ActiveDirectoryLab/tree/main)
+- [SIEM Implementation and Incident Response Simulation]([https://jeremiaheze.github.io/])
 - [Hello World!](https://github.com/jeremiaheze/ActiveDirectoryLab/tree/main)
 
 <h2>📄 Certifications</h2>
