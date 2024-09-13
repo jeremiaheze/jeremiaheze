@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [SIEM Implementation and Incident Response Simulation](https://github.com/jeremiaheze/jeremiaheze.github.io.git)
-- [Hello World!](https://github.com/jeremiaheze/ActiveDirectoryLab/tree/main)
+- [Cloud Security Implementation](https://github.com/jeremiaheze/jeremiaheze.github.io.git)
+- [Penetration Testing and Vulnerability Assessment](https://github.com/jeremiaheze/jeremiaheze.github.io.git)
 
 <h2>📄 Certifications</h2>
 
