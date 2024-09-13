@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SIEM Implementation and Incident Response Simulation]([README.md])
+- [SIEM Implementation and Incident Response Simulation](README.md)
 - [Hello World!](https://github.com/jeremiaheze/ActiveDirectoryLab/tree/main)
 
 <h2>📄 Certifications</h2>
