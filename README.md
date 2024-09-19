@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremiah! <br/><a href="https://github.com/jeremiaheze">SOC Analyst</a>, <a href="https://www.linkedin.com/in/jeremiah-eze-ike/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jeremiah! <br/><a href="https://www.linkedin.com/in/jeremiah-eze-ike/">Cybersecurity Professional</a>, <a href="https://github.com/jeremiaheze">SOC Analyst</a>, </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
