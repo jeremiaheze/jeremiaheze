@@ -7,8 +7,8 @@
 <h2>📄 Certifications</h2>
 
 - [Qualys Vulnerability Management](https://acrobat.adobe.com/id/urn:aaid:sc:EU:159fc180-162a-4f92-a328-9e71a92ab36d)
-- [CompTia A+]
-- [Blue Team Level 1]
+- CompTia A+
+- Blue Team Level 1
   
 <h2>📺 Popular YouTube Videos</h2>
 
